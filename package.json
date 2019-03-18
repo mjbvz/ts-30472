@@ -1,0 +1,9 @@
+{
+    "name": "vscode-auto-complete-issue",
+    "version": "1.0.0",
+    "license": "ISC",
+    "dependencies": {
+        "core-decorators": "^0.20.0",
+        "typescript": "^3.4.0-dev.20190316"
+    }
+}
